@@ -18,4 +18,6 @@
  para no hacer un `merge` a ese error
 ![RevertCommit.png](../img/RevertCommit.png)
 * Y despues de eso ya podremos hacer un `checkout` a la main y hacerle `merge` a la rama `interfeace`
-* ![MergeAlRvert.png](../img/MergeAlRvert.png)
+![MergeAlRvert.png](../img/MergeAlRvert.png)
+
+* Para finalizar, una vez todo este listo creamos un `commit` para marcar la Release 1.0 
