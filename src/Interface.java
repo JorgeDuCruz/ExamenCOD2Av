@@ -10,5 +10,5 @@ public class Interface {
     public void dialog() {
         JOptionPane.showMessageDialog(null, "Hola Examen!");
  }
-
+    //Cambio para hacer un pull request
 }
