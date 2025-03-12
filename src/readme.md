@@ -14,3 +14,8 @@
   ![editComitMensajeInterface.png](../img/editComitMensajeInterface.png)
 * Le seleccionamos un nombre adecuado, por ejemplo _añadido dialogo con mensaje "Hola Examen!"_
 
+* Ahora nos damos cuenta de que el ultimo commit contiene un error por lo que usaremos `revert commit`
+ para no hacer un `merge` a ese error
+![RevertCommit.png](../img/RevertCommit.png)
+* Y despues de eso ya podremos hacer un `checkout` a la main y hacerle `merge` a la rama `interfeace`
+* ![MergeAlRvert.png](../img/MergeAlRvert.png)
